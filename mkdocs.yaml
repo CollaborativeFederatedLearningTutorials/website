@@ -4,11 +4,17 @@ site_url: https://collaborativefederatedlearningtutorials.github.io/website
 repo_url: https://github.com/CollaborativeFederatedLearningTutorials/website
 repo_name: CollaborativeFederatedLearningTutorials/website
 nav:
-  - Introduction: index.md
-  - Tutorial: tutorial.md
+  - Home: index.md
+  - Tutorial:
+    - introduction.md
+    - tutorial.md
 
 theme:
+  custom_dir: docs/overrides
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - search.share
@@ -62,3 +68,10 @@ markdown_extensions:
   - toc:
       permalink: True
   - attr_list
+  - md_in_html
+
+extra_css:
+  - styles/styles.css
+
+extra_javascript:
+  - scripts/script.js
