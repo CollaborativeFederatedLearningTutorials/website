@@ -10,4 +10,4 @@
 |   1100 - 1130  | 6 |                            COFFEE BREAK                            |       N.A.      | Light refreshments available  near session rooms |
 |   1130 - 1200  | 7 |     Introduction to Model Design using GaNDLF (including MONAI)    |     Sarthak     |                 25 min talk + Q&A                |
 |   1200 - 1300  | 8 |        **Hands-on**: Federated Learning using OpenFL & MedPerf     |      Hasan      |          Demo using slides & Codespaces          |
-|   1300 - 1330  | 9 |                                  ?                                 |       N.A.      |                 25 min talk + Q&A                |
+|   1300 - 1330  | 9 |                                  ?                                 |      T.B.D.     |                 25 min talk + Q&A                |
