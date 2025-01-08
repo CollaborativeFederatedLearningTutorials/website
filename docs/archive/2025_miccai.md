@@ -2,7 +2,7 @@
 
 |    **Time**    |                              **Session**                            |   **Speaker**   |                   **Comments**                   |
 |:--------------:|:------------------------------------------------------------------:|:---------------:|:------------------------------------------------:|
-|   0900 - 0905  |                          Environment Setup                         |  Hasan/Sarthak  |                 GitHub Codespaces                |
+|   0900 - 0905  |                          Environment Setup                         |  Hasan/Sarthak  |[GitHub Codespaces](https://github.com/codespaces/)|
 |   0905 - 0930  |          Introduction to Federated Learning for Healthcare         |      Spyros     |                 20 min talk + Q&A                |
 |   0930 - 1000  |     Introduction to Model Design using GaNDLF (including MONAI)    |     Sarthak     |                 25 min talk + Q&A                |
 |   1000 - 1030  |    Practical Use of FL with NVFlare for large foundation models    |      Holger     |                 25 min talk + Q&A                |
