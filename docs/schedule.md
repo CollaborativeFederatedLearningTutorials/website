@@ -1,16 +1,12 @@
-# Schedule for MICCAI 2024: ROOM "BORJ 6"
+# Schedule for MICCAI 2025
 
-|   **Time**  |                                   **Title**                                  |   **Speaker**   |    **Comments**   |
-|:-----------:|:----------------------------------------------------------------------------:|:---------------:|:-----------------:|
-| 0800 - 0845 |               Introduction to Federated Learning for Healthcare              |  [Spyridon Bakas](https://medicine.iu.edu/faculty/64865/bakas-spyridon) |   40' talk + Q&A   |
-| 0845 - 0930 | Challenges and Practical Use Cases for Federated Learning in Medical Imaging |      [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/)     |   40' talk + Q&A   |
-| 0930 - 1000 |                   Introduction to Model Design using GaNDLF                  |   [Sarthak Pati](https://medicine.iu.edu/pathology/research/computational-pathology/people/pati)  | 25' talk + Q&A |
-| 1000 - 1030 |                                     Break                                    |                 |                   |
-| 1030 - 1100 |                       Model optimization using OpenVINO                      | [Siddhesh Thakur](https://github.com/Geeks-Sid) | 25' talk + Q&A |
-| 1100 - 1130 |                      Model deployment using Hugging Face                     |   [Cyril Zakka](https://cyrilzakka.github.io/)  | 25' talk + Q&A |
-| 1130 - 1200 |                        Federated Learning using OpenFL                       |      [Patrick Foley](https://www.linkedin.com/in/psfoley/)      | 25' talk + Q&A |
-| 1200 - 1230 |    Federated Evaluation using MedPerf and how to conduct hands-on session    |   [Hasan Kassem](https://www.linkedin.com/in/hasan-kassem-02625119b/?originalSubdomain=fr)  | 25' talk + Q&A |
-
-All presentation material can be found [here](https://github.com/CollaborativeFederatedLearningTutorials/website/tree/main/docs/archive/2024_miccai).
-
-The self-guided hands-on session can be found [here](https://fl-tutorials.org/).
+|    **Time**    |                                **Session**                             |   **Speaker**   |                   **Comments**                   |
+|:--------------:|:----------------------------------------------------------------------:|:---------------:|:------------------------------------------------:|
+|   0900 - 0905  |                            Environment Setup                           |  Hasan/Sarthak  |[GitHub Codespaces](https://github.com/codespaces/)|
+|   0905 - 0930  |            Introduction to Federated Learning for Healthcare           |      Spyros     |                 20 min talk + Q&A                |
+|   0930 - 1000  | Introduction to Model Design using GaNDLF (including MONAI & OpenVINO) |     Sarthak     |                 25 min talk + Q&A                |
+|   1000 - 1030  |      Practical Use of FL with NVFlare for large foundation models      |      Holger     |                 25 min talk + Q&A                |
+|   1030 - 1100  |    FL training considering privacy & security protocols using OpenFL   |     Patrick     |                 25 min talk + Q&A                |
+|   1100 - 1130  |                              COFFEE BREAK                              |       N.A.      | Light refreshments available  near session rooms |
+|   1130 - 1230  |     **Hands-on**: FL Training and Evaluation using OpenFL & MedPerf    |      Hasan      |          Demo using slides & Codespaces          |
+|   1230 - 1330  |     **Hands-on**: Adding a custom method in OpenFL and running FL      |     Patrick     |          Demo using slides & Codespaces          |
