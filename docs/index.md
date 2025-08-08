@@ -15,7 +15,7 @@ In 2021, **COFE** was used to conduct the largest to-date real world federation,
 
 ## Upcoming Events
 
-- 
+- [MICCAI 2025](https://conferences.miccai.org/2025/en/tutorials.asp) - 23-27 September (South Korea)
 
 ## Past Events
 
@@ -28,8 +28,8 @@ In 2021, **COFE** was used to conduct the largest to-date real world federation,
 
 ## Organizing Committee 
 
-- Sarthak Pati, Indiana University & MLCommons.
-- Patrick Foley, Intel Corporation.
+- Sarthak Pati, MLCommons.
+- Patrick Foley.
 - Hasan Kassem, MLCommons.
 - Alex Karargyris, MLCommons.
 - Spyridon Bakas, Indiana University & MLCommons.

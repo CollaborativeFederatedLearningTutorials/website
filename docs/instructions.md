@@ -311,6 +311,7 @@ medperf result view -b 1
 
 # Part 3: Deep Learning Optimization with OpenVINO 
 
+- Based on work done in this paper [[ref](https://doi.org/10.1016/j.compbiomed.2025.110615)].
 - After launching this repo in Codespaces, In VS CODE, open `openvino_optimization/113-image-classification-quantization/113-image-classification-quantization.ipynb`
 - Click on `Select Kernel` near top-right.
 - A prompt appears, Click on `Install/Enable suggested extensions Python + Jupyter`
