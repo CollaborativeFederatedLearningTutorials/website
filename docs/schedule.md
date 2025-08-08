@@ -8,5 +8,5 @@
 | 1000 - 1030 |      Practical Use of FL with NVFlare for large foundation models      |   [Holger Roth](https://research.nvidia.com/person/holger-roth)   |                25 min talk + Q&A                |
 | 1030 - 1100 |                       FL training using FedBioMed                      |  [Marco Lorenzi](https://marcolorenzi.github.io/)  |                25 min talk + Q&A                |
 | 1100 - 1130 |                              COFFEE BREAK                              |       N.A.      | Light refreshments available near session rooms |
-| 1130 - 1230 |          Hands-on: Leverage GaNDLF for low-resource inference          |   [Hasan Kassem](https://www.linkedin.com/in/hasan-kassem-02625119b/?originalSubdomain=fr)  |          Demo using slides & Codespaces         |
-| 1230 - 1330 |       Hands-on: FL Training and Evaluation using OpenFL & MedPerf      |   [Hasan Kassem](https://www.linkedin.com/in/hasan-kassem-02625119b/?originalSubdomain=fr)  |          Demo using slides & Codespaces         |
+| 1130 - 1230 |          Hands-on: Leverage GaNDLF for low-resource inference          |   [Alex Karargyris](https://www.linkedin.com/in/alexandroskarargyris/)  |          Demo using slides & Codespaces         |
+| 1230 - 1330 |       Hands-on: FL Training and Evaluation using OpenFL & MedPerf      |   [Alex Karargyris](https://www.linkedin.com/in/alexandroskarargyris/)  |          Demo using slides & Codespaces         |
