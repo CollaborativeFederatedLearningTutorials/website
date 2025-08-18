@@ -4,9 +4,9 @@
 |:-----------:|:----------------------------------------------------------------------:|:---------------:|:-----------------------------------------------:|
 | 1330 - 1350 |            Introduction to MLCommons            | [Alex Karargyris](https://www.linkedin.com/in/alexandroskarargyris/) |                15 min talk + Q&A                |
 | 1350 - 1410 |            Federated Learning in Medical Imaging           | [Spyridon Bakas](https://www.linkedin.com/in/alexandroskarargyris/) |                15 min talk + Q&A                |
-| 1410 - 1420 |      Practical Use of FL with NVFlare for Large Foundation Models      |   [Holger Roth](https://research.nvidia.com/person/holger-roth)   |                15 min talk + Q&A                |
-| 1420 - 1450 |                       FL Training using FedBioMed                      |  [Marco Lorenzi](https://marcolorenzi.github.io/)  |                25 min talk + Q&A                |
-| 1450 - 1520 |                       Clinical Translation of Federated Learning with Regulatory Overshight                  |  [Marius Linguraru](https://research.childrensnational.org/people/marius-george-linguraru)  |                25 min talk + Q&A                |
+| 1410 - 1440 |      Practical Use of FL with NVFlare for Large Foundation Models      |   [Holger Roth](https://research.nvidia.com/person/holger-roth)   |                25 min talk + Q&A                |
+| 1440 - 1510 |                       FL Training using FedBioMed                      |  [Marco Lorenzi](https://marcolorenzi.github.io/)  |                25 min talk + Q&A                |
+| 1510 - 1530 |                       Clinical Translation of Federated Learning with Regulatory Overshight                  |  [Marius Linguraru](https://research.childrensnational.org/people/marius-george-linguraru)  |                15 min talk + Q&A                |
 | 1530 - 1600 |                              COFFEE BREAK                              |       N.A.      | Light refreshments available near session rooms |
 | 1600 - 1700 |          Hands-on: NV Flare          |   [Holger Roth](https://research.nvidia.com/person/holger-roth)  |          Demo using slides & Codespaces         |
 | 1700 - 1800 |       Hands-on: FL Training and Evaluation using OpenFL & MedPerf      |   [Alex Karargyris](https://www.linkedin.com/in/alexandroskarargyris/)  |          Demo using slides & Codespaces         |
