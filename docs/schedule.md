@@ -9,4 +9,4 @@
 | 1510 - 1530 |                       Clinical Translation of Federated Learning with Regulatory Overshight                  |  [Marius Linguraru](https://research.childrensnational.org/people/marius-george-linguraru)  |                15 min talk + Q&A                |
 | 1530 - 1600 |                              COFFEE BREAK                              |       N.A.      | Light refreshments available near session rooms |
 | 1600 - 1700 |          Hands-on: NV Flare          |   [Holger Roth](https://research.nvidia.com/person/holger-roth)  |          Demo using slides & Codespaces         |
-| 1700 - 1800 |       Hands-on: FL Training and Evaluation using OpenFL & MedPerf      |   [Alex Karargyris](https://www.linkedin.com/in/alexandroskarargyris/)  |          Demo using slides & Codespaces         |
+| 1700 - 1800 |       Hands-on: Federated Benchmarking with MedPerf      |   [Alex Karargyris](https://www.linkedin.com/in/alexandroskarargyris/)  |          Demo using slides & Codespaces         |
