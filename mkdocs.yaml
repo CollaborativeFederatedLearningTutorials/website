@@ -5,7 +5,8 @@ repo_url: https://github.com/CollaborativeFederatedLearningTutorials/website
 repo_name: CollaborativeFederatedLearningTutorials/website
 nav:
   - Introduction: index.md
-  - Tutorial: tutorial.md
+  - Federated Evaluation Tutorial: tutorial.md
+  - Federated Training Tutorial: training_tutorial.md
   - Schedule: schedule.md
   - Previous: previous.md
 
