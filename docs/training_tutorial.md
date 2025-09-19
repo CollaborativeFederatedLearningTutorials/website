@@ -213,7 +213,7 @@ This will also submit some statistics calculated on your data that could be usef
 Now request participation in the training experiment:
 
 ```bash
-medperf dataset associate --training_exp_uid 1 --data_uid 1
+medperf dataset associate  --data_uid 1 --training_exp_uid 1
 ```
 
 ## 7. Data Owner: Start the training node
@@ -231,7 +231,7 @@ The process will keep waiting until the experiment admin submits the training jo
 For the second data owner, you will do the same steps as the first data owner. To avoid repetition, we provide a script that you can run to quickly run what needs to be run by the second data owner:
 
 ```bash
-bash collab_shortcut.sh
+bash medperf_tutorial/collab_shortcut.sh
 ```
 
 You should move now to another terminal
