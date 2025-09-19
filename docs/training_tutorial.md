@@ -14,7 +14,7 @@ nv_assets_url: https://raw.githubusercontent.com/hasan7n/medperf/974879e8eee24ef
 
 ## Run in codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlcommons/medperf/tree/nvflare?devcontainer_path=.devcontainer%2Ftraining%2Fdevcontainer.json){target="\_blank"}
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlcommons/medperf/tree/nvflare-integration?devcontainer_path=.devcontainer%2Ftraining%2Fdevcontainer.json){target="\_blank"}
 
 After opening the link, proceed to creating the codespace without changing any option. It will take around 7 minutes to get the codespace up and running.
 
