@@ -7,7 +7,7 @@ nv_assets_url: https://raw.githubusercontent.com/hasan7n/medperf/974879e8eee24ef
 # Hands-on Tutorial for Federated Training with Nvidia Flare
 
 {% set prep_container = assets_url+"data_preparator/container_config.yaml" %}
-{% set prep_container_params = assets_url+"data_preparator/container_config.yaml" %}
+{% set prep_container_params = assets_url+"data_preparator/workspace/parameters.yaml" %}
 
 {% set train_container = nv_assets_url+"node/container_config.yaml" %}
 {% set admin_train_container = nv_assets_url+"admin/container_config.yaml" %}
@@ -81,7 +81,7 @@ medperf container submit --name trainadmin \
     --container-config-file "{{ admin_train_container }}"
 ```
 
-#### Register the Training Experiment
+### Register the Training Experiment
 
 Note the IDs of the data preparation container, the training nodes container, and the training admin container. The IDs will be `2`, `3`, and `4` for this tutorial. You can check by running `medperf container ls --mine`.
 
@@ -193,8 +193,8 @@ We provide toy dataset of chest x-ray images and labels in the `medperf_tutorial
 
 ```bash
 medperf dataset submit --data_prep 2 \
-  --data_path medperf_tutorial/col1 \
-  --labels_path medperf_tutorial/col1 \
+  --data_path medperf_tutorial/col1/data \
+  --labels_path medperf_tutorial/col1/labels \
   --name col1data \
   --description "some data" \
   --location mymachine
