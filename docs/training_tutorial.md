@@ -94,6 +94,16 @@ medperf training submit --name trainexp --description trainexp \
   --fl-admin-container 4
 ```
 
+#### Associate a Certificate Authority
+
+Although currently the setup will not use a certificate authority, this step will be needed in an upcoming MedPerf feature where the training startup kits will be securely transported through the MedPerf server. The current NV Flare - MedPerf integration code still expects a certificate authority to be associated with the training experiment.
+
+Run the following command to associate a certificate authority:
+
+```bash
+medperf ca associate -t 1 -c 1 -y
+```
+
 ## 2. Experiment Admin: Aggregator Setup
 
 The operator of the aggregator server can be another user, not necessarily the admin. This tutorial will assume it's the same user for simplicity.
