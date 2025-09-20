@@ -110,10 +110,12 @@ Note that the hostname should be reachable by the data owners. In a real experim
 hostname -I | cut -d " " -f 1
 ```
 
+Also, you will need to specify which container to use for running the aggregator later. For our case it's going to be the same node container submitted for the training experiment, which is the container of ID `3`.
+
 Now register the aggregator:
 
 ```bash
-medperf aggregator submit --name myaggreg --address <hostname_found> --port 8102 --port 8103
+medperf aggregator submit --name myaggreg --aggregation-container 3 --address <hostname_found> --port 8102 --port 8103
 ```
 
 ### Associate the aggregator with the experiment
