@@ -134,7 +134,7 @@ In this section you will submit the required configuration for training. For our
 - The startup kits for the aggregator and for the data owners will be created and submitted to the MedPerf server so that the data owners and the aggregator will later automatically pull them and use them when starting their nodes.
 
 !!! note
-  In an upcoming MedPerf release, the startup kits will be encrypted end-to-end so that they are securely transported from the admin to the data owners through MedPerf.
+    In an upcoming MedPerf release, the startup kits will be encrypted end-to-end so that they are securely transported from the admin to the data owners through MedPerf.
 
 You will need to provide a folder for the following command that includes the necesary configuration files. You can check the folder `medperf_tutorial/training_config` to see how it's expected to be.
 
